@@ -100,9 +100,9 @@
         Do you think you’re the one? If yes, send us your application at
         <a
           class="text-decoration-none text-primary"
-          href="mailto:contactus@moviepediafilms.com"
+          href="mailto:anonsecteaminc@gmail.com"
           target="_blank"
-          >contactus@moviepediafilms.com</a
+          >anonsecteaminc@gmail.com</a
         >
       </p>
     </div>
